@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ftp.myftpserver.com"
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Users\tstraus\Documents\Tests\Publishing\DualPublishing2"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="scm"
+  ProviderType="Git"
+  Database="C:\Users\tstraus\Documents\Tests\Publishing\DualPublishing2\.git"
+  DatabaseRoot="C:\Users\tstraus\Documents\Tests\Publishing\DualPublishing2"
+  PushToRemote="true"></CatapultDestination>
